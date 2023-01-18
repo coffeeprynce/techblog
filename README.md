@@ -1,3 +1,4 @@
+<img width="1552" alt="Screen Shot 2023-01-17 at 7 10 00 PM" src="https://user-images.githubusercontent.com/111266296/213042470-d2df8ee8-2c13-4394-b1c1-7eced63a913a.png">
 # techblog
 a blog for coders
 
@@ -52,3 +53,4 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 REFERENCES:
 I used the module 14 mini project as reference when building this app.
+
