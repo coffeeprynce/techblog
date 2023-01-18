@@ -54,4 +54,3 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 REFERENCES:
 I used the module 14 mini project as reference when building this app.
 
-<img width="1552" alt="Screen Shot 2023-01-17 at 7 10 00 PM" src="https://user-images.githubusercontent.com/111266296/213040007-b6d70734-abe3-4e49-bcce-2434cc7bb91b.png">
